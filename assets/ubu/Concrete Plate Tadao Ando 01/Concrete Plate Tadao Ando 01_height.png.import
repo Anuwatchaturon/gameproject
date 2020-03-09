@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/Concrete Plate Tadao Ando 01_height.png-513cadcd05c4774ba06ac5733dadd0d2.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://assets/ubu/Concrete Plate Tadao Ando 01/Concrete Plate Tadao Ando 01_height.png"
+dest_files=[ "res://.import/Concrete Plate Tadao Ando 01_height.png-513cadcd05c4774ba06ac5733dadd0d2.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0
